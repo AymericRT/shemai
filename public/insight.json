@@ -837,7 +837,7 @@
     "source_url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202506/391401b01f_4b04334110.pdf"
   },
   {
-    "date": "2025-06-11",
+    "date": "2025-07-11",
     "company": "PT Jaya Konstruksi Manggala Pratama Tbk",
     "action_type": "cash dividend",
     "description": "PT Jaya Konstruksi Manggala Pratama Tbk announced a schedule and procedure for cash dividend payment for the financial year 2024.",
@@ -2484,7 +2484,7 @@
     "source_url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202506/b62be99be7_531712e5a6.pdf"
   },
   {
-    "date": "2025-06-07",
+    "date": "2025-07-07",
     "company": "PT Buana Lintas Lautan Tbk.",
     "action_type": "pembelian kembali saham",
     "description": "Persetujuan atas rencana pengalihan seluruh saham treasuri Perseroan untuk ditarik kembali dengan cara pengurangan modal.",
@@ -2770,5 +2770,14 @@
     "value": "Rp 44.122.204.800,00",
     "third_party_involved": "PT Kustodian Sentral Efek Indonesia (KSEI)",
     "source_url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202506/f97d5187d1_f566f9bce1.pdf"
+  },
+  {
+    "date": "2025-06-13",
+    "company": "Kabelindo Murni Tbk",
+    "action_type": "Cash Dividend",
+    "description": "The company plans to distribute cash dividends for the fiscal year 2024 based on the Annual General Meeting held on 11 June 2025.",
+    "value": null,
+    "third_party_involved": null,
+    "source_url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202506/62bc877019_340b7305fd.pdf"
   }
 ]

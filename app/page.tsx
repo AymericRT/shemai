@@ -6,8 +6,8 @@ type Entry = {
   company: string;
   action_type: string;
   description: string;
-  value: string;
-  third_party_involved: string | null;
+  value: string | object | null;
+  third_party_involved: string | null | object;
   source_url: string;
 };
 
@@ -30,6 +30,13 @@ export default function Home() {
       .toLowerCase()
       .includes(search.toLowerCase())
   );
+
+  // Helper to safely render values
+  const renderValue = (val: any) => {
+    if (val === null || val === undefined) return '-';
+    if (typeof val === 'object') return JSON.stringify(val);
+    return val;
+  };
 
   return (
     <div className="min-h-screen p-6 sm:p-12 font-sans bg-gray-50 text-sm">
@@ -66,8 +73,8 @@ export default function Home() {
                     <td className="px-4 py-2 text-black">{entry.company}</td>
                     <td className="px-4 py-2 capitalize text-black">{entry.action_type}</td>
                     <td className="px-4 py-2 text-black">{entry.description}</td>
-                    <td className="px-4 py-2 text-black">{entry.value || '-'}</td>
-                    <td className="px-4 py-2 text-black">{entry.third_party_involved || '-'}</td>
+                    <td className="px-4 py-2 text-black">{renderValue(entry.value)}</td>
+                    <td className="px-4 py-2 text-black">{renderValue(entry.third_party_involved)}</td>
                     <td className="px-4 py-2 text-blue-600 underline">
                       {entry.source_url ? (
                         <a href={entry.source_url} target="_blank" rel="noopener noreferrer">

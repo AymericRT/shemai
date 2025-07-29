@@ -9336,5 +9336,113 @@
     "value": "n/a",
     "third_party_involved": "n/a",
     "source_url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202507/7c86794405_95b5252c71.pdf"
+  },
+  {
+    "date": "2025-07-28",
+    "company": "PT Radiant Utama Interinsco Tbk",
+    "action_type": "penjualan saham",
+    "description": "Rencana penjualan 5% saham milik PT Supraco Indonesia di PT Sorik Marapi Geothermal Power kepada OTP Geothermal Pte. Ltd dan KS Orka Renewables Pte. Ltd.",
+    "value": "Exceeds 20% but less than 50% of the company’s equity",
+    "third_party_involved": "OTP Geothermal Pte. Ltd, KS Orka Renewables Pte. Ltd",
+    "source_url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202507/fb51ae466d_dfee5e0029.pdf"
+  },
+  {
+    "date": "2025-07-28",
+    "company": "PT Bangun Karya Perkasa Jaya Tbk",
+    "action_type": "akuisisi",
+    "description": "RICH berencana melanjutkan akuisisi atas saham dari Calon Penjual, menyebabkan perubahan pengendalian Perseroan.",
+    "value": "Tidak disebutkan",
+    "third_party_involved": "Rich Step Internasional Ltd. (RICH), Green City SG Pte., Ltd., Yang Jie, PT Green Power Group Tbk",
+    "source_url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202507/60685a9d34_8ba48b57c3.pdf"
+  },
+  {
+    "date": "2025-07-28",
+    "company": "PT Bangun Karya Perkasa Jaya Tbk",
+    "action_type": "rights issue",
+    "description": "Perseroan berencana melakukan pendanaan melalui Penambahan Modal dengan Hak Memesan Efek Terlebih Dahulu (Rights Issue) untuk mendukung perkembangan usaha.",
+    "value": "Tidak disebutkan",
+    "third_party_involved": "Tidak disebutkan",
+    "source_url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202507/60685a9d34_8ba48b57c3.pdf"
+  },
+  {
+    "date": "2025-07-28",
+    "company": "PT Sanurhasta Mitra Tbk (MINA)",
+    "action_type": "right issue",
+    "description": "Penambahan Saham Baru Hasil Pelaksanaan PMHMETD sejumlah 219.778.003 saham.",
+    "value": "",
+    "third_party_involved": "",
+    "source_url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202507/5c6a56e19f_2ca9855747.pdf"
+  },
+  {
+    "date": "2025-07-28",
+    "company": "Sidomulyo Selaras Tbk",
+    "action_type": "penambahan modal",
+    "description": "Persetujuan untuk melakukan Penambahan Modal Tanpa Hak Memesan Efek Terlebih Dahulu (PMTHMETD) dengan konversi utang menjadi saham baru seri B.",
+    "value": null,
+    "third_party_involved": null,
+    "source_url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202507/92da7afe09_2fef6b33d0.pdf"
+  },
+  {
+    "date": "2025-07-28",
+    "company": "PT Medco Energi Internasional Tbk",
+    "action_type": "akuisisi",
+    "description": "MedcoEnergi menyelesaikan akuisisi atas Fortuna International (Barbados), Inc, yang memegang hak kepemilikan tidak langsung sebesar 24% di PSC Corridor dari Repsol E&P, S.à.r.l.",
+    "value": "",
+    "third_party_involved": "Fortuna International (Barbados), Inc; Repsol E&P, S.à.r.l.",
+    "source_url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202507/d16902e08a_719ee3f0c1.pdf"
+  },
+  {
+    "date": "2025-07-28",
+    "company": "DIRE Ciptadana Properti Ritel Indonesia",
+    "action_type": "cash dividend",
+    "description": "Informasi tentang pembagian Dividen Tunai Final.",
+    "value": "Rp 2.197.600.000",
+    "third_party_involved": null,
+    "source_url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202507/f227310c94_eda909b545.pdf"
+  },
+  {
+    "date": "2025-07-28",
+    "company": "DYAN",
+    "action_type": "pengalihan saham",
+    "description": "Pengalihan seluruh saham di PT Visicita Imaji Semesta milik PT Dyandra Promosindo.",
+    "value": "Penghapusan goodwill Rp20 Miliar",
+    "third_party_involved": "PT Visicita Imaji Semesta",
+    "source_url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202507/acf1aec381_457b89b3f5.pdf"
+  },
+  {
+    "date": "2025-07-28",
+    "company": "AKR Corporindo",
+    "action_type": "pembelian kembali saham",
+    "description": "Laporan Pengalihan Kembali Saham Hasil Buy Back untuk periode 30 Juni 2025, dengan total 15.650.000 lembar saham yang dijual.",
+    "value": "Rp 7,809,350,000",
+    "third_party_involved": "Manajemen dan Karyawan yang memiliki kinerja baik dan tinggi",
+    "source_url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202507/a744bcb88e_f4703903b2.pdf"
+  },
+  {
+    "date": "2025-07-28",
+    "company": "PT AKR Corporindo Tbk.",
+    "action_type": "cash dividend",
+    "description": "The company will distribute an interim cash dividend for the fiscal year 2025.",
+    "value": "Rp 989,988,480,000",
+    "third_party_involved": null,
+    "source_url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202507/d685deef31_3c88c25424.pdf"
+  },
+  {
+    "date": "2025-07-28",
+    "company": "BFI Finance Indonesia Tbk",
+    "action_type": "pembelian kembali saham",
+    "description": "Laporan Pengalihan Kembali Saham Hasil Buy Back untuk periode 25 Juli 2025.",
+    "value": null,
+    "third_party_involved": null,
+    "source_url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202507/4fcb2757b0_05e67ce972.pdf"
+  },
+  {
+    "date": "2025-07-28",
+    "company": "BFI Finance Indonesia Tbk",
+    "action_type": "saham treasuri",
+    "description": "Penghapusan Pencatatan Saham Treasuri Perseroan sejumlah 927.732.000 lembar sebagai akibat dari pelaksanaan pengalihan saham hasil pembelian kembali.",
+    "value": "927,732,000 shares",
+    "third_party_involved": "PT Bursa Efek Indonesia",
+    "source_url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202507/d1416d5af8_f816c261f3.pdf"
   }
 ]

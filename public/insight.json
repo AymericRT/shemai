@@ -9444,5 +9444,77 @@
     "value": "927,732,000 shares",
     "third_party_involved": "PT Bursa Efek Indonesia",
     "source_url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202507/d1416d5af8_f816c261f3.pdf"
+  },
+  {
+    "date": "2025-07-31",
+    "company": "PT Northcliff Citranusa Indonesia Tbk",
+    "action_type": "akuisisi",
+    "description": "Persetujuan rencana Perseroan melakukan aksi korporasi untuk pengembangan kegiatan usaha dengan melakukan pengambilalihan beberapa perusahaan.",
+    "value": null,
+    "third_party_involved": null,
+    "source_url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202507/35952765da_f99da3f522.pdf"
+  },
+  {
+    "date": "2025-07-31",
+    "company": "MEDC",
+    "action_type": "akuisisi",
+    "description": "MedcoEnergi menyelesaikan akuisisi akretif atas 24% hak partisipasi Repsol di Wilayah Kerja Corridor PSC.",
+    "value": null,
+    "third_party_involved": "Repsol",
+    "source_url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202507/e088bc9e52_f40e77938c.pdf"
+  },
+  {
+    "date": "2025-07-31",
+    "company": "MEDC",
+    "action_type": "pembelian kembali saham",
+    "description": "Program pembelian kembali saham merealisasikan pembelian sebanyak 428 juta lembar saham.",
+    "value": null,
+    "third_party_involved": null,
+    "source_url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202507/e088bc9e52_f40e77938c.pdf"
+  },
+  {
+    "date": "2025-07-31",
+    "company": "MEDC",
+    "action_type": "dividen kas",
+    "description": "Dividen final tahun buku 2024 sebesar AS$37,9 juta telah dibagikan.",
+    "value": "US$37.9M",
+    "third_party_involved": null,
+    "source_url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202507/e088bc9e52_f40e77938c.pdf"
+  },
+  {
+    "date": "2025-07-31",
+    "company": "Barito Pacific Tbk",
+    "action_type": "akuisisi",
+    "description": "Keberhasilan akuisisi Aster Chemicals and Energy Pte. Ltd. (ACE).",
+    "value": "Tidak disebutkan",
+    "third_party_involved": "Aster Chemicals and Energy Pte. Ltd.",
+    "source_url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202507/c9665f8a26_fe907cfc4f.pdf"
+  },
+  {
+    "date": "2025-07-31",
+    "company": "PT Chandra Asri Pacific Tbk",
+    "action_type": "akuisisi",
+    "description": "Chandra Asri Group berhasil mengakuisisi Aster Chemicals and Energy dari Shell pada 1 April 2025.",
+    "value": "US$1.6 miliar",
+    "third_party_involved": "Shell",
+    "source_url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202507/b67eb37199_2f775a94ff.pdf"
+  },
+  {
+    "date": "2025-07-31",
+    "company": "PT Chandra Daya Investasi Tbk",
+    "action_type": "penawaran umum perdana (IPO)",
+    "description": "PT Chandra Daya Investasi resmi melantai di Bursa Efek Indonesia dengan kode saham 'CDIA'.",
+    "value": "Rp 2.37 triliun",
+    "third_party_involved": null,
+    "source_url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202507/b67eb37199_2f775a94ff.pdf"
+  },
+  {
+    "date": "2025-07-31",
+    "company": "Bakrie & Brothers Tbk",
+    "action_type": "pengambilalihan",
+    "description": "BTI berencana untuk melakukan pengambilalihan atas CCT dengan membeli 72.000.000 saham CCT dan piutang terkait.",
+    "value": "Rp 3.565.34M",
+    "third_party_involved": "PT Sarana Multi Infrastruktur, PT Waskita Toll Road",
+    "source_url": "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202507/04a3a3d838_75c396efb2.pdf"
   }
 ]
